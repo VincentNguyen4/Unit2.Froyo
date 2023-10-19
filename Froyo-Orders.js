@@ -16,8 +16,6 @@ for(i = 0; i < stringArray.length; i++){
 
 console.table(ordersIn(orders))
 
-
-
 function ordersIn(orders){
 
   // setting up object
